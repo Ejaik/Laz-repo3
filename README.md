@@ -1,4 +1,3 @@
 #My demo repo
 
-getting to appreciate repo# Laz-repo3
-# Laz-repo3
+getting to appreciate starting a repo locally repo
